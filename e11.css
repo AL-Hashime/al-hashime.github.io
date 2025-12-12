@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:rgb(2, 107, 183) ;
+}
+header{
+    padding: 20px;
+    padding-left: 38%;
+    font-size: 33px;
+    background-color: white;
+    border-radius: 30px;
+}
+section{
+    height: 545px;
+}
+footer{
+    padding: 20px;
+    padding-left: 40%;
+    font-size: 33px;
+    background-color: #002239;
+}
